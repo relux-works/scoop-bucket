@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/relux-works/curator/releases/download/v0.1.0/curator_0.1.0_windows_amd64.zip",
+            "bin": [
+                "curator.exe"
+            ],
+            "hash": "1c8685ee528860aec11ffbfa564bef1ba82561ba4c40bc8296fded8274982854"
+        },
+        "arm64": {
+            "url": "https://github.com/relux-works/curator/releases/download/v0.1.0/curator_0.1.0_windows_arm64.zip",
+            "bin": [
+                "curator.exe"
+            ],
+            "hash": "9d4e8cc8fe7a8a40e11bf3f997785246cb8402e4962fb31c4eccb5bca0ce9720"
+        }
+    },
+    "homepage": "https://github.com/relux-works/curator",
+    "license": "Apache-2.0",
+    "description": "Agent environment manager"
+}
