@@ -1,19 +1,19 @@
 {
-    "version": "0.14.0-rc.1",
+    "version": "0.14.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/relux-works/curator/releases/download/v0.14.0-rc.1/curator_0.14.0-rc.1_windows_amd64.zip",
+            "url": "https://github.com/relux-works/curator/releases/download/v0.14.0/curator_0.14.0_windows_amd64.zip",
             "bin": [
                 "curator.exe"
             ],
-            "hash": "ebae7b46ba6e13a76b686b34e9623dd39e12db91f74bda9c9540c768cef9cd1d"
+            "hash": "4a7f50c200f8466ddb1dfd0a765a07bab522fe4adaf31235b1a36e50bca95b59"
         },
         "arm64": {
-            "url": "https://github.com/relux-works/curator/releases/download/v0.14.0-rc.1/curator_0.14.0-rc.1_windows_arm64.zip",
+            "url": "https://github.com/relux-works/curator/releases/download/v0.14.0/curator_0.14.0_windows_arm64.zip",
             "bin": [
                 "curator.exe"
             ],
-            "hash": "a6778fd42e47423efb8e2f68f6b4ba2925cf04b7aadcb9d5eb43bbb3bfe5cb36"
+            "hash": "1aaa33c6a7dcbcd45a5fa1383330efcf4f494ea593a5560ba288c1a7c4d0aa3b"
         }
     },
     "homepage": "https://github.com/relux-works/curator",
